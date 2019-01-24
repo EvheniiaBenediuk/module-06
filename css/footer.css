@@ -1,0 +1,29 @@
+   .footer_page{
+       padding-bottom: 30px;
+       display: flex;
+       justify-content:space-between;
+       margin-top: 25px;
+   }
+   .subscribe{
+       background: var(--mainColor);
+       border:none;
+       padding: 12px 45px 12px 45px;
+       font-size: 14px;
+       text-transform: uppercase;
+       color: #ffffff;
+       font-weight: 600;
+       font-family: var(--mainFont);
+       cursor: pointer;
+       margin-left: -4px;
+   }
+   .text_button{
+       height: 36px;
+       padding-left: 10px;
+   }
+   .text_footer{
+       font-family: var(--mainFont);
+       font-size: 14px;
+   }
+   .author{
+       color: var(--semi-color);
+   }
